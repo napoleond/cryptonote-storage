@@ -1,2 +1,0 @@
-cryptonote-storage
-==================
